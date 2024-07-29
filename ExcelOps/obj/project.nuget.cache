@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "FV3B4MjC2+1PFm+sfv7Q32T2gK+zilnML1ONjyBnPsqHVpbe+wO6tv/yyfJ6A3MZs1NAmo6DEbrkjebnQyEr+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\ExcelOps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\SURYAPAL\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\excel_ops_github\\excelops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\easycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\easycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\easycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\easycompare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\static_repos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\static_repos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\listviewex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\listviewex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|c:\\projects\\excel_ops_github\\excelops\\excelops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13E3BBC-4613-471D-8253-9194CE3BE18A}|ExcelOps\\ExcelOps.csproj|solutionrelative:excelops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EasyCompare.cs",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\EasyCompare.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\EasyCompare.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\EasyCompare.cs",
+              "RelativeToolTip": "ExcelOps\\EasyCompare.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-14T11:35:29.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Loader.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\Loader.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Loader.cs",
+              "RelativeToolTip": "ExcelOps\\Loader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T19:15:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "static_repos.cs",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\static_repos.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\static_repos.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\static_repos.cs",
+              "RelativeToolTip": "ExcelOps\\static_repos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T12:48:58.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListViewEx.cs",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\ListViewEx.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\ListViewEx.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\ListViewEx.cs",
+              "RelativeToolTip": "ExcelOps\\ListViewEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-08T11:20:05.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EasyCompare.cs",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\EasyCompare.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\EasyCompare.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\EasyCompare.cs",
+              "RelativeToolTip": "ExcelOps\\EasyCompare.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAArwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-08T10:59:31.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Program.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\Program.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Program.cs",
+              "RelativeToolTip": "ExcelOps\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-08T10:06:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Form1.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\Form1.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Form1.cs [Design]",
+              "RelativeToolTip": "ExcelOps\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-19T07:33:55.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Form1.cs",
+              "RelativeDocumentMoniker": "ExcelOps\\Form1.cs",
+              "ToolTip": "C:\\Projects\\excel_ops_github\\excelops\\ExcelOps\\Form1.cs",
+              "RelativeToolTip": "ExcelOps\\Form1.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAuwM4CAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-18T11:00:18.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
